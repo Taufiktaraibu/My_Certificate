@@ -17,7 +17,7 @@
    - Responsible for improving and realizing project delivery according to schedule
    - Create Automation using Python and VBA Excel for daily routines
    - data manipulation and visualization using python or excel and tableau
-#### 2. [sagami tekkin] | construction supervisor |  `2019-2022`
+#### 2. [sagami tekkin] | construction supervisor | fukushima `2019-2022`
    - Coordinate all tasks and activities of subordinate staff so that the project is completed according to plan.
    - Provide direction to the tasks of all teams
    - Coordinate all resource needs in the project and also work groups to work according to their duties and responsibilities.
