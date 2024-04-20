@@ -39,6 +39,5 @@
 ---
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/#gh-dark-mode-only)
+🏢 Find me on LinkedIn ➡︎ (https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/)
+📲 Connect with me on IG ➡︎ (https://www.instagram.com/tfk_traibu050702/)
