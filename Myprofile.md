@@ -44,6 +44,10 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/#gh-dark-mode-only)
 
 
+## Certificate:
+
+![img 1](certificate/1.png)
+
 
 
 
