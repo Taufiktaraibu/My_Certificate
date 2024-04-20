@@ -1,30 +1,27 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Moh Taufiq Taraibu 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
+- 🔭 I’m currently working as Data Scientist
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: taufiktaraibu@icloud.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+ #### 1. [SMK N 1 Bulango Utara) bone bolango `2012-2015`
+   - Farm
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [PT inti cakrawala citra] | Database engineer | manado `2015-2017`
+   - responsible for managing the company database
+   - Responsible for improving and realizing project delivery according to schedule
+   - Create Automation using Python and VBA Excel for daily routines
+   - data manipulation and visualization using python or excel and tableau
+#### 2. [sagami tekkin] | construction supervisor |  `2019-2022`
+   - Coordinate all tasks and activities of subordinate staff so that the project is completed according to plan.
+   - Memberikan arahan akan tugas dari semua tim
+   - Coordinate all resource needs in the project and also work groups to work according to their duties and responsibilities.
+
 ---
 
 ### Languages and Tools:
