@@ -4,13 +4,22 @@
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: taufiktaraibu@icloud.com
+- 📫 How to reach me: taufiktaraibu@icloud.com or WA : 085353439486
 
 ## Education:
 
  #### 1. [SMK N 1 Bulango Utara] bone bolango `2012-2015`
    - Farm
 
+## course
+
+ ## 1. [coursera] Google (https://www.coursera.org) '2023-2024'
+   - Analitik Data Google (https://www.coursera.org/account/accomplishments/professional-cert/BKPZPF99EY93)
+   - Databases and SQL for Data Science with Python (https://www.coursera.org/account/accomplishments/verify/N6GJ5CECYEQL)
+   - Business Analytics with Excel: Elementary to Advanced (https://www.coursera.org/account/accomplishments/verify/ED2QEWG6R9AZ)
+   - Data Visualization with Tableau (https://www.coursera.org/account/accomplishments/verify/URGFTA7ZMEPV)
+
+ 
 ## Work Experience:
 #### 1. [PT inti cakrawala citra] | Database engineer | manado `2015-2017`
    - responsible for managing the company database
@@ -39,14 +48,6 @@
 ---
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/#gh-dark-mode-only)
+🏢 Find me on LinkedIn ➡︎ [moh_taufik_taraibu](https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/)
 
-
-
-
-
-
-
-
+📲 Connect with me on IG ➡︎ [@tfk_traibu050702](https://www.instagram.com/tfk_traibu050702/)
