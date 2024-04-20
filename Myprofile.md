@@ -40,8 +40,8 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/moh-taufiq-taraibu#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/moh-taufiq-taraibu#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/#gh-dark-mode-only)
 
 
 
