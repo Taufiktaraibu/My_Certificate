@@ -39,7 +39,6 @@
 ---
 ### Connect with me:
 
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)][(https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only](https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/))
 
 
