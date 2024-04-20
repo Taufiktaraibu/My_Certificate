@@ -8,7 +8,7 @@
 
 ## Education:
 
- #### 1. [SMK N 1 Bulango Utara) bone bolango `2012-2015`
+ #### 1. [SMK N 1 Bulango Utara] bone bolango `2012-2015`
    - Farm
 
 ## Work Experience:
