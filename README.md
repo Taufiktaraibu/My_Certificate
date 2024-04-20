@@ -1,2 +1,0 @@
-# Taufikqaraibu
-My profile 
