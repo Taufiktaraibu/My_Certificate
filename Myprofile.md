@@ -39,7 +39,8 @@
 ---
 ### Connect with me:
 
-[![Logo LinkedIn](https://raw.githubusercontent.com/username/repository/branch/path/to/linkedin-logo.svg)](https://www.linkedin.com/in/moh-taufiq-taraibu-57694a269/)
+![Logo](https://raw.githubusercontent.com/username/repository/branch/path/to/linkedin-logo.svg)
+
 
 
 
