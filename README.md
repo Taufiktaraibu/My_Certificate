@@ -18,4 +18,8 @@
 
 ![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certifcate%20SPV/kartu%20karirr%20belakang.jpg)
 
+# sertifikat vaksin covid 19
+
+![alt text](https://github.com/Taufiktaraibu/My_Certificate/blob/main/certifcate%20SPV/IMG_7754.jpg)
+
 
